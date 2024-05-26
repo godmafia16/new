@@ -19,7 +19,7 @@
         margin-bottom: -7cm;
     }
     #button{
-        margin-left: 400px;
+        margin-left: 380px;
         margin-top: -9cm; 
         background-color: rgb(22, 95, 221);
         color: aqua;
