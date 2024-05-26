@@ -9,7 +9,7 @@
     img.gif{
         height: 150px;
         width: 150px;
-        margin-left: 500px;
+        margin-left: 550px;
         margin-top: 7cm;
     }
     #h1{
@@ -19,7 +19,7 @@
         margin-bottom: -7cm;
     }
     #button{
-        margin-left: 450px;
+        margin-left: 400px;
         margin-top: -9cm; 
         background-color: rgb(22, 95, 221);
         color: aqua;
