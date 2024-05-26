@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,5 +46,4 @@
 </button></a>
  <a href="gift2.html"><button id="button2">BTS🤭
 </button> </a>
-</body>
-</html>
+
