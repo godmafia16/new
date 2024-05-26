@@ -9,7 +9,7 @@
     img.gif{
         height: 150px;
         width: 150px;
-        margin-left: 550px;
+        margin-left: 525px;
         margin-top: 7cm;
     }
     #h1{
